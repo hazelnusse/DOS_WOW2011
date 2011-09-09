@@ -1,0 +1,5 @@
+Press 'm' to tile all slides, then click on the slide you want to go to.  This
+works on Firefox on my machine, but Chromium doesn't seem to render the slide
+that it takes me too once I click on it.
+
+Press 'g' to bring up the goto menu.  Then type the page number and hit enter.
