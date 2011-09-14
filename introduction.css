@@ -63,11 +63,12 @@ img.left-single {
 	max-height: 400px;
 	float: left;
 	padding: 20px;
+	margin: 20px;
 }
 
 /* This is for the collage of logos. */
 table.collage img {
-	max-width: 280px;
+	max-width: 240px;
 	padding: 10px;
 }
 
