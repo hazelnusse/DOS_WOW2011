@@ -53,3 +53,20 @@
     display: none !important;
   }
 }
+
+img.collage {
+	max-width: 300px;
+	padding: 10px;
+}
+
+table.collage {
+	background-color: white;
+	border-radius: 15px;
+	box-shadow: 10px 10px 5px #888;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table.collage td {
+	vertical-align: middle;
+}
