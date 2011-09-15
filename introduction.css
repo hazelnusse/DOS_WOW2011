@@ -61,6 +61,7 @@ img.single {
 
 img.left-single {
 	max-height: 400px;
+	max-width: 50%;
 	float: left;
 	padding: 20px;
 	margin: 20px;
