@@ -85,6 +85,10 @@ table.collage td {
 	vertical-align: middle;
 }
 
-.listfont {
-	font-size=300%;
+ul.listfont li {
+	font-size=200%;
+}
+
+ol.listfont li {
+	font-size=200%;
 }
