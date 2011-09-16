@@ -56,7 +56,7 @@
 
 /* A class for images that are the only thing displayed on the screen.*/
 img.single {
-	max-height: 400px;
+	max-height: 500px;
 }
 
 img.left-single {
